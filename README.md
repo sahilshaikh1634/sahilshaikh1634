@@ -22,7 +22,7 @@
 - 📄 Know about my work & experiences [My Resume](https://sahil1634.pythonanywhere.com/static/portfolio/Resume.pdf)
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+<code>git commit -m "development and tech stuff!"</code> :grin:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
