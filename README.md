@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilshaikh1634&label=Profile%20views&color=0e75b6&style=flat" alt="sahilshaikh1634" /> </p>
 
-![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
+![Banner](https://github.com/sahilshaikh1634/sahilshaikh1634/blob/main/Sahil%20Shaikh.gif)
 
 <p align="left"> <a href="https://twitter.com/sahilshaikh1634" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="sahilshaikh1634" /></a> </p>
 
