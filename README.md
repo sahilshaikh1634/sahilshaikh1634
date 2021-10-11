@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sahilshaikh1634@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://sahil1634.pythonanywhere.com/static/portfolio/Resume.pdf)
+- 📄 Know about my work & experiences [My Resume](https://atsahil.me/resume.pdf)
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "development and tech stuff!"</code> :grin:
