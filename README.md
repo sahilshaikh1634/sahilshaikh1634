@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Shaikh</h1>
 <h3 align="center">git commit -m "Hello, I'm a Computer Engineering Graduate'21"</h3>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://sahil1634.pythonanywhere.com/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://atsahil.me/):sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilshaikh1634&label=Profile%20views&color=0e75b6&style=flat" alt="sahilshaikh1634" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning about **Cloud and React Native**
 
-- 👨‍💻 All about me is at [My Website](https://sahil1634.pythonanywhere.com/)
+- 👨‍💻 All about me is at [My Website](https://atsahil.me/)
 
 - 💬 Ask me about **Java, Python, Web Devlopment**
 
