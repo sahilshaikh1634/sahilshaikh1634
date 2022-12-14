@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning about **Cloud and React Native**
 
-- 👨‍💻 All about me is at [My Website](https://atsahil.me/)
+- 👨‍💻 All about me is at [My Website](https://sahilshaikh1634.github.io/)
 
 - 💬 Ask me about **Java, Python, Web Devlopment**
 
